@@ -1,4 +1,4 @@
-package w03;
+package w03_Calculator;
 
 public abstract class AbstractOperation {
     //추상 클래스

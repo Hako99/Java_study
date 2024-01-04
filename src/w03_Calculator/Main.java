@@ -1,4 +1,4 @@
-package w03;
+package w03_Calculator;
 
 import java.util.Scanner;
 
