@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class MenuSelect {
 
-    MenuCheck burger = new MenuCheck();
     public static void hamburger() {
         MenuCheck burger = new MenuCheck();
         Menu.bar();
